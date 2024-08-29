@@ -1,5 +1,10 @@
-
 # Datamoc.com Dashboard 
+
+## Tools & technologies used:
+NextJS, Tailwind CSS, Chart.js, MongoDB.
+
+## Brief Introduction
+
 This Full Stack web application is designed to visualize activities and orders using line and bar graphs, while also leveraging MongoDB for data storage. The project includes the creation of APIs that facilitate seamless connectivity to the MongoDB database.
 
 The application provides users with an intuitive interface to view and interact with the visual representations of the activity and order data. By utilizing MongoDB's data storage capabilities, the project ensures efficient data retrieval and management for a smooth user experience.
@@ -11,7 +16,7 @@ To enhance usability, the project incorporates responsive design principles, ens
 The README file accompanying the project provides detailed information on how to set up and run the application, as well as any additional dependencies or configurations required.
 
 Note: The primary objective of this project is to showcase Full Stack development skills, particularly the integration of MongoDB for data storage and the creation of APIs to facilitate data retrieval and manipulation.
-## Authors
+## Author
 
 - [@Abhikumar Gupta](https://github.com/Abhi87374)
 
@@ -68,6 +73,10 @@ Open http://localhost:3000 with your browser to see the result.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `api_key`      | `string` | **Required**. api endpoints  |
+
+## Demo
+![image](https://github.com/user-attachments/assets/bbf47173-ad1e-41df-9b33-d4bf40693003)
+
 
 
 
